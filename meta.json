@@ -24,16 +24,16 @@
     "android.permission.ACCESS_NETWORK_STATE"
   ],
   "icons": [
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/ic_icon_round.png",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/home_screen.jpg"
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/ic_icon_round.png",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/home_screen.jpg"
   ],
   "screenshots": [
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/home_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/welcome_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/tictactoe_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/drawer_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/land_calculator_screen.jpg",
-    "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/assets/area_converter_screen.jpg"
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/home_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/welcome_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/tictactoe_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/drawer_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/land_calculator_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/SkrProjects/main/assets/area_converter_screen.jpg"
   ],
   "apk": {
     "url": "https://github.com/SKR0411/SkrProjects/releases/download/v1.0/skr_projects.apk",
